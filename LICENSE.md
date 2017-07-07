@@ -1,1 +1,1 @@
-can read but can copy with permission
+can read but can use with permission and need to provide reference to this link
